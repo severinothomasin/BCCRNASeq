@@ -1,0 +1,6 @@
+/datasets
+.ipynb_checkpoints
+.ruff_cache
+.venv
+cache
+.python-version
